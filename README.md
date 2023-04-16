@@ -1,4 +1,4 @@
-<h1 align="center">Robotron 2000 - Programa Desenvolve</h1>
+<h1 align="center">Projeto Robotron 2000</h1>
 
 ![pagina-final](https://user-images.githubusercontent.com/101302079/232346114-f8918d2e-b004-4293-b613-21c770dcb38f.PNG)
 
