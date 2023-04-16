@@ -17,7 +17,7 @@ body {
     font-weight: 300;
 }
 
-body, input {
+body, input, .alterar {
     font-family: 'Teko', sans-serif;
 }
 
@@ -34,15 +34,37 @@ main {
     background-position: center center;
     margin: 0;
     flex-basis: 40%;
-    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+
+.img-robo {
+    height: 100%;
 }
 
 .robo {
-    height: 110%;
+    height: 100%;
     z-index: 1;
-    position: absolute;
     left: -20%;
-    top: -5%;
+}
+
+.alterar {
+    margin: 3px;
+    width: 200px;
+    background-color: var(--main-branco);
+    padding: 2px;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 18px;
+}
+
+.botoes {
+    right: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .titulo {
@@ -51,7 +73,7 @@ main {
     font-size: 130px;
     position: absolute;
     bottom: 7rem;
-    left: -3rem;
+    left: -1rem;
     line-height: 0.8;
     writing-mode: vertical-rl;
     text-orientation: mixed;
