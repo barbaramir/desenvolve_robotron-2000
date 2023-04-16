@@ -1,9 +1,9 @@
 <h1 align="center">Robotron 2000 - Programa Desenvolve</h1>
 
-
+![pagina-final](https://user-images.githubusercontent.com/101302079/232346114-f8918d2e-b004-4293-b613-21c770dcb38f.PNG)
 
 ## :pencil: Descrição do Projeto
-<p>Projeto da página Robotron 2000 desenvolvido ao longo do curso de JavaScript da Alura, parte da trilha Fullstack - Programa Desenvolve Boticário 2023</p>
+<p>Projeto da página Robotron 2000 desenvolvido ao longo do curso de JavaScript da Alura, parte da trilha Fullstack - Programa Desenvolve Boticário 2023.</p>
 
 ## :pushpin: Status do Projeto
 <p>Projeto Finalizado :white_check_mark:</p>
@@ -11,10 +11,9 @@
 ## :hammer: Funcionalidades do projeto
 
 - `Página Inicial`: 
-   - Cabeçalho com logo do programa, título da página e campo de pesquisa
-   - Conteúdo principal com cards de identificação e descrição das trilhas e botão de redirecionamento para cada ementa correspondente 
-   - Rodapé com identificação das empresas idealizadoras, logo do Programa Desenvolve, menu de navegação e links para redes sociais
-   - Responsividade para telas em formato desktop, tablet e mobile 
+   - Montagem do robô, permitindo alterar a quantidade de cada uma das peças utilizadas;
+   - Resumo das características do robô (força, poder, energia e velocidade) calculadas automaticamente a partir da composição das peças escolhidas;
+   - Botões de seleção da cor do Robotron 2000.
 
 ## :ballot_box_with_check: Tecnologias utilizadas no projeto
 
@@ -22,6 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML 5
 - CSS 3
+- JavaScript
 
 ## Autores
 <a href="https://github.com/barbaramir">
